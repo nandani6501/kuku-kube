@@ -46,7 +46,7 @@ console.log(nandani_x);
     }
 }
 
-let seconds = 30;
+let seconds = 10;
 
 const makeIteration = () => {
     let score = nandani_row - 3;
