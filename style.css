@@ -1,0 +1,31 @@
+table,tr,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-radius: 15%;
+}
+
+
+table{
+    height: 400px;
+    width: 400px;
+    
+}
+
+#table{
+width: 400px;
+height: 400px;
+margin-left: 35%;
+}
+
+body{
+    background-color: rgb(233, 241, 245);
+}
+
+input{
+    background-color: rgb(177, 219, 235);
+    padding: 0.5% 2%;
+    font-size: 20px;
+    border: 2px solid black;
+    font-family:'Courier New', Courier, monospace ;
+    font-weight: 700;
+}
